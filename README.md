@@ -1,4 +1,4 @@
-# 🚀 Projectile Dynamics Simulator with Atmospheric Modeling
+# Projectile Dynamics Simulator with Atmospheric Modeling
 
 A computational tool that models the complete flight path of a projectile from launch to impact, incorporating every major physical force that acts on a body moving through the atmosphere at high velocity.
 
