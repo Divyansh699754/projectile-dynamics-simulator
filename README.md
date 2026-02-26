@@ -86,7 +86,7 @@ projectile-dynamics-simulator/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/projectile-dynamics-simulator.git
+git clone https://github.com/Divyansh699754/projectile-dynamics-simulator.git
 cd projectile-dynamics-simulator
 
 # Create virtual environment (recommended)
